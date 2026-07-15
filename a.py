@@ -12,4 +12,6 @@ something
 
 print("hello", "Umar")
 print(3) #the above program is using print()
-print(4+6, end=)
+print(4+6, end="%%%%%%%%%")
+
+print("Hello",'Umar','''How''',"""Are""",'You?',sep='***')
